@@ -4,7 +4,8 @@
 
 
 def get_largest_number():
-    print("🔢 Find the Largest of Four Numbers\n")
+    print("\U0001F522 Let's determine the biggest of four numbers!\n")
+
 
     try:
         # Get four numbers from the user
